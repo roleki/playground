@@ -1,3 +1,3 @@
 ## TEST
 
-[README](/README)
+[README](README.markdown)
