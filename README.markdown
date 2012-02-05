@@ -1,7 +1,8 @@
---- <!--
+--- 
+<!--
 author: Roall Lein-Killi
 --- -->
-
 ## README for the playground project
 
-[test](test.markdown)
+This is just a [test](test.markdown) project. A playground for a github newbee
+
